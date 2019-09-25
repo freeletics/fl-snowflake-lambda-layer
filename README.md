@@ -1,4 +1,4 @@
-# FL-lambda-layer
+# FL-Snowflake-lambda-layer
 
 In this Repo, we will install the common 3rd python libraries that will be shared between several lambda functions.
 
